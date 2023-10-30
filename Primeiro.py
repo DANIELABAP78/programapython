@@ -29,4 +29,4 @@ print(f"O quadrado de {numero} é {resultado}")
 if resultado < 100:
     print('Resultado satisfatório')
 else:
-    print(resultado está ruim)
+    print('resultado está ruim')
